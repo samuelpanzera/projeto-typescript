@@ -8,7 +8,7 @@ Todas as configurações foram feitas para ter os recursos mais atualizados poss
 ## Tecnologias e linguagens Utilizadas
 
 - Front-End
-  - Utilizadas
+  - Typescript
   - ReactJS
   - StyledComponents
   - 
